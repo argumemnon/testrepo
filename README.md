@@ -6,3 +6,8 @@ Modified the test setup
 
 ### Added a second header
  This is stuff under the second header
+
+
+
+#### *** Third header ***
+This one is bold and has some stars
